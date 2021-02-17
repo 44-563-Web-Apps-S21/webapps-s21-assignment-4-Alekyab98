@@ -40,12 +40,10 @@ color:tomato;
     color: wheat;
 }
 table{
-    text-align: center;
-    width: 50%;
-    margin: auto;
+    text-align: left;
 }
 table,td,th{
-    border: 3px solid teal;
+    border: 3px  teal;
     border-collapse: collapse;
 }
 td,th{
@@ -54,7 +52,6 @@ td,th{
 }
 th{
     background-color: turquoise;
-    text-decoration: underline;
     color: greenyellow;
     font-size: large;
 }
