@@ -1,5 +1,5 @@
 .speech{
-    font-size: 15px;
+    font-size: 14px;
     font-family: 'Courier New', Courier, monospace;
     color: black;
 }
@@ -10,13 +10,17 @@
     background-color: palegoldenrod;
 }
 .name{
-    font-size: 20px;
+    font-size: 6px;
     font-family: 'Times New Roman', Times, serif;
     color: black;
 }
 .stage-direction:hover{
     background-color: plum;
     color: #123456;
+}
+.RUMOUR
+{
+    color: salmon;
 }
 .LORD-BARDOLPH{
     color:rosybrown;
