@@ -69,7 +69,7 @@ tr:nth-child(odd){
 .name:hover{
     text-shadow:5px 5px 2px plum ;
     border: solid black;
-   border-style:initial;
+   border-style:ridge;
 
 
 }
