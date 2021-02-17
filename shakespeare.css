@@ -68,8 +68,8 @@ tr:nth-child(odd){
 }
 .name:hover{
     text-shadow:5px 5px 2px plum ;
-    border: black;
-   border-style: double;
+    border: solid black;
+   border-style:initial;
 
 
 }
