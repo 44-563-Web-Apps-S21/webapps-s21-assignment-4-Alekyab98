@@ -80,15 +80,15 @@ ul.navbar-horizontal
 }
 ul.navbar-horizontal li {
     
-    color:rgb(134, 31, 48);
-    background-color:lightgray;
+    color:palevioletred;
+    background-color:paleturquoise;
 }
 ul.navbar-horizontal a {
     display:block;
     padding:8px;
 }
     ul.navbar-horizontal a:hover{  
-        background-color: rgb(68, 59, 59);
+        background-color: blueviolet;
         color:white;
     }
 
