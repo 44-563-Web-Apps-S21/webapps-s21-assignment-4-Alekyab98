@@ -52,7 +52,7 @@ td{
     margin: 1px;
 }
 tr:nth-child(even){
-    background-color: paleturquoise;
+    background-color: skyblue;
 }
 
 .name:hover{
