@@ -73,5 +73,23 @@ tr:nth-child(odd){
 
 
 }
+ul.navbar-horizontal 
+{ 
+    margin: 0;
+    padding: 0;
+}
+ul.navbar-horizontal li {
+    
+    color:rgb(134, 31, 48);
+    background-color:lightgray;
+}
+ul.navbar-horizontal a {
+    display:block;
+    padding:8px;
+}
+    ul.navbar-horizontal a:hover{  
+        background-color: rgb(68, 59, 59);
+        color:white;
+    }
 
 
