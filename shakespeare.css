@@ -41,10 +41,9 @@ color:tomato;
 }
 table{
     text-align: left;
-    margin: 0ch;
 }
 table,td,th{
-    border: 3px  teal;
+    border: 3px solid teal;
     border-collapse: collapse;
 }
 td,th{
