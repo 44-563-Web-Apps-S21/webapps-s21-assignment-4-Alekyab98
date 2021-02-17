@@ -43,7 +43,7 @@ table{
     text-align: left;
 }
 table,td,th{
-    border: 3px solid teal;
+    border: 3px solid white;
     border-collapse: collapse;
 }
 td,th{
@@ -58,6 +58,7 @@ th{
 }
 td{
     color: plum;
+    text-align: center;
     margin: 1px;
 }
 tr:nth-child(even){
