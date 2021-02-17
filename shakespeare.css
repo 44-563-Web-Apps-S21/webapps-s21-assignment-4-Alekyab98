@@ -67,7 +67,7 @@ tr:nth-child(odd){
     background-color: whitesmoke;
 }
 .name:hover{
-    text-shadow:2px 3px 5px solid black ;
+    text-shadow:6px 8px 10px solid black ;
     border:whitesmoke;
     border-top:2px ridge;
     border-bottom: 2px ridge;
