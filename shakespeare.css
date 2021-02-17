@@ -55,7 +55,7 @@ tr:nth-child(even){
     background-color: paleturquoise;
 }
 tr:nth-child(odd){
-    background-color: yellow;
+    background-color: palegoldenrod;
 }
 
 .name:hover{
