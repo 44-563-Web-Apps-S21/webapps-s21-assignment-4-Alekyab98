@@ -52,6 +52,7 @@ td,th{
 }
 th{
     background-color: turquoise;
+    text-align: center;
     color: greenyellow;
     font-size: large;
 }
